@@ -1,0 +1,168 @@
+{
+  "stats": {
+    "num_unique_terms": 58136,
+    "num_postings": 1883493,
+    "num_docs": 25657,
+    "avg_doc_length": 114.0067817749542,
+    "sample_posting_lists": {
+      "evolutionari": {
+        "632589828c8b9fca2c3a59e97451fde8fa7d188d": 3,
+        "86e87db2dab958f1bd5877dc7d5b8105d6e31e46": 1,
+        "2a047d8c4c2a4825e0f0305294e7da14f8de6fd3": 2,
+        "ccbcaf528a222d04f40fd03b3cb89d5f78acbdc6": 1,
+        "fa27e993f88c12ef3cf5bbc6eb3b0b4f9de15e86": 2,
+        "c62ba57869099f20c8bcefd9b38ce5d8b4b3db56": 1,
+        "b0f16acfa4efce9c24100ec330b82fb8a28feeec": 1,
+        "154d62d97d43243d73352b969b2335caaa6c2b37": 5,
+        "d53432934fa78151e7b75c95093c9b0be94b4b9a": 3,
+        "6588070d6578bc8a9d1f284f766340587501d620": 1
+      },
+      "recurr": {
+        "632589828c8b9fca2c3a59e97451fde8fa7d188d": 9,
+        "51317b6082322a96b4570818b7a5ec8b2e330f2f": 3,
+        "cc76f5d348ab6c3a20ab4adb285fc1ad96d3c009": 1,
+        "8e508720cdb495b7821bf6e43c740eeb5f3a444a": 3,
+        "ffd7ac9b4fff641d461091d5237321f83bae5216": 1,
+        "4902805fe1e2f292f6beed7593154e686d7f6dc2": 1,
+        "5287d8fef49b80b8d500583c07e935c7f9798933": 1,
+        "950ff860dbc8a24fc638ac942ce9c1f51fb24899": 1,
+        "26d4ab9b60b91bb610202b58fa1766951fedb9e9": 2,
+        "85fc21452fe92532ec89444055880aadb0eacf4c": 3
+      },
+      "network": {
+        "632589828c8b9fca2c3a59e97451fde8fa7d188d": 9,
+        "51317b6082322a96b4570818b7a5ec8b2e330f2f": 5,
+        "1ae0ac5e13134df7a0d670fc08c2b404f1e3803c": 1,
+        "cc76f5d348ab6c3a20ab4adb285fc1ad96d3c009": 2,
+        "f69253e97f487b9d77b72553a9115fc814e3ed51": 3,
+        "8e508720cdb495b7821bf6e43c740eeb5f3a444a": 1,
+        "7f90ef42f22d4f9b86d33b0ad7f16261273c8612": 2,
+        "2b337d6a72c8c2b1d97097dc24ec0e9a8d4c2186": 3,
+        "9d1940f843c448cc378214ff6bad3c1279b1911a": 3,
+        "0651f838d918586ec1df66450c3d324602c9f59e": 4
+      }
+    },
+    "top10_df_terms": [
+      [
+        "use",
+        15941
+      ],
+      [
+        "paper",
+        11969
+      ],
+      [
+        "base",
+        10694
+      ],
+      [
+        "result",
+        10257
+      ],
+      [
+        "propos",
+        9010
+      ],
+      [
+        "present",
+        8491
+      ],
+      [
+        "system",
+        8349
+      ],
+      [
+        "perform",
+        8097
+      ],
+      [
+        "model",
+        7979
+      ],
+      [
+        "data",
+        7872
+      ]
+    ]
+  },
+  "sample_posting_lists": {
+    "evolutionari": {
+      "632589828c8b9fca2c3a59e97451fde8fa7d188d": 3,
+      "86e87db2dab958f1bd5877dc7d5b8105d6e31e46": 1,
+      "2a047d8c4c2a4825e0f0305294e7da14f8de6fd3": 2,
+      "ccbcaf528a222d04f40fd03b3cb89d5f78acbdc6": 1,
+      "fa27e993f88c12ef3cf5bbc6eb3b0b4f9de15e86": 2,
+      "c62ba57869099f20c8bcefd9b38ce5d8b4b3db56": 1,
+      "b0f16acfa4efce9c24100ec330b82fb8a28feeec": 1,
+      "154d62d97d43243d73352b969b2335caaa6c2b37": 5,
+      "d53432934fa78151e7b75c95093c9b0be94b4b9a": 3,
+      "6588070d6578bc8a9d1f284f766340587501d620": 1
+    },
+    "recurr": {
+      "632589828c8b9fca2c3a59e97451fde8fa7d188d": 9,
+      "51317b6082322a96b4570818b7a5ec8b2e330f2f": 3,
+      "cc76f5d348ab6c3a20ab4adb285fc1ad96d3c009": 1,
+      "8e508720cdb495b7821bf6e43c740eeb5f3a444a": 3,
+      "ffd7ac9b4fff641d461091d5237321f83bae5216": 1,
+      "4902805fe1e2f292f6beed7593154e686d7f6dc2": 1,
+      "5287d8fef49b80b8d500583c07e935c7f9798933": 1,
+      "950ff860dbc8a24fc638ac942ce9c1f51fb24899": 1,
+      "26d4ab9b60b91bb610202b58fa1766951fedb9e9": 2,
+      "85fc21452fe92532ec89444055880aadb0eacf4c": 3
+    },
+    "network": {
+      "632589828c8b9fca2c3a59e97451fde8fa7d188d": 9,
+      "51317b6082322a96b4570818b7a5ec8b2e330f2f": 5,
+      "1ae0ac5e13134df7a0d670fc08c2b404f1e3803c": 1,
+      "cc76f5d348ab6c3a20ab4adb285fc1ad96d3c009": 2,
+      "f69253e97f487b9d77b72553a9115fc814e3ed51": 3,
+      "8e508720cdb495b7821bf6e43c740eeb5f3a444a": 1,
+      "7f90ef42f22d4f9b86d33b0ad7f16261273c8612": 2,
+      "2b337d6a72c8c2b1d97097dc24ec0e9a8d4c2186": 3,
+      "9d1940f843c448cc378214ff6bad3c1279b1911a": 3,
+      "0651f838d918586ec1df66450c3d324602c9f59e": 4
+    }
+  },
+  "top10_df_terms": [
+    [
+      "use",
+      15941
+    ],
+    [
+      "paper",
+      11969
+    ],
+    [
+      "base",
+      10694
+    ],
+    [
+      "result",
+      10257
+    ],
+    [
+      "propos",
+      9010
+    ],
+    [
+      "present",
+      8491
+    ],
+    [
+      "system",
+      8349
+    ],
+    [
+      "perform",
+      8097
+    ],
+    [
+      "model",
+      7979
+    ],
+    [
+      "data",
+      7872
+    ]
+  ]
+}

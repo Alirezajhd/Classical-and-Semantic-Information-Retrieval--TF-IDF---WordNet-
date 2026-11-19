@@ -1,0 +1,1 @@
+{"doc_id_hash": "1a23603cf319dc01b2a2c1d718b6ca6a", "num_docs": 25657, "preproc": {"lemmatize": false, "lowercase": true, "min_token_length": 2, "remove_stopwords": true, "stemming": true, "stopword_source": "nltk"}}
